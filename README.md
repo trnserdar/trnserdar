@@ -1,4 +1,13 @@
-### Hi there 👋
+### About me 🌏
+Hello 👋  I`m Serdar. I work @Turkcell as iOS Consultant.👨🏻‍💻 My passion is learning new technologies and building apps with that technologies. I love working with all kinds of Apple devices. 📱⌚️🖥 I am currently trying to develop apps with SwiftUI for all platforms. 
+
+### Get in touch 📫 
+* Mail: trnserdar@gmail.com
+* Linkedin: https://www.linkedin.com/in/trnserdar/
+* Twitter: https://twitter.com/trn_serdar
+
+
+
 
 <!--
 **trnserdar/trnserdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
