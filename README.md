@@ -1,5 +1,5 @@
 ### About me 🌏
-Hello 👋  I`m Serdar. I work @Turkcell as iOS Developer.👨🏻‍💻 My passion is learning new technologies and building apps with that technologies. I love working with all kinds of Apple devices. 📱⌚️🖥 I am currently trying to develop apps with SwiftUI for all platforms. 
+Hello 👋  I`m Serdar. I work @getir as iOS Developer.👨🏻‍💻 My passion is learning new technologies and building apps with that technologies. I love working with all kinds of Apple devices. 📱⌚️🖥 I am currently trying to develop apps with SwiftUI for all platforms. 
 
 ### Get in touch 📫 
 * Mail: trnserdar@gmail.com
